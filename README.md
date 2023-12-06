@@ -1,6 +1,8 @@
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.youtube.com/c/todaycode](https://www.linkedin.com/in/jieun-kim-3417b8218/))  
 
-# 안녕하세요~!!
+## Hello 👋
+I am interested in **Data Science**
+
 #### 🧐 데이콘 대회 (dacon-projects)
 
 * [🚢 HD현대 AI Challenge](https://github.com/Jieuneda/dacon-projects/blob/main/hyundai(dacon)-final.ipynb)
