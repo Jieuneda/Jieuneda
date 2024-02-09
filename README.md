@@ -1,4 +1,4 @@
- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jieun-kim-3417b8218/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jieun-kim-3417b8218/)](https://www.linkedin.com/in/jieun-kim-3417b8218/)
 
 ## Hi~! Welcome to my portfolio 👋
 I am interested in **Data Science!**
