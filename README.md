@@ -2,6 +2,7 @@
 
 ## Hi~! Welcome to my portfolio 👋
 I am interested in **Data Science!**
+For more information about me, please click on the **LinkedIn** badge above!
 
 #### 🧐 데이콘 대회 (dacon-projects)
 
