@@ -10,3 +10,5 @@ For more information about me, please click on the **LinkedIn** badge above!
 * [🚢 HD현대 AI Challenge](https://github.com/Jieuneda/dacon-projects/blob/main/hyundai(dacon)-final.ipynb)
 * [📰 월간 데이콘 쇼츠 - 뉴스 기사 레이블 복구 해커톤](https://github.com/Jieuneda/dacon-projects/blob/main/news(dacon)_final.ipynb)
 
+#### 👩🏻‍💻 Personal Projects
+* [📝 채용공고 기반 스펙 추천 서비스](https://github.com/Jieuneda/Personal-Project/blob/main/job_project.ipynb)
